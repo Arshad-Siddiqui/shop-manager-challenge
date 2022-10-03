@@ -8,8 +8,12 @@ order: customer, date
 classes
 
 class items
--show
+-show_all
 -create
+-show(item)
+
+class orders
+-show
 
 
 
