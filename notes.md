@@ -2,7 +2,7 @@ tables
 
 items: name, price, quantity,
 
-order: customer, date
+orders: customer, date
 
 
 classes
@@ -14,7 +14,6 @@ class items
 
 class orders
 -show
-
-
+-create
 
 class customer
